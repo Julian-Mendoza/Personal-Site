@@ -98,6 +98,9 @@ height: 80px;
   padding-top: 15px;
   background-color: #E0EBE8;
 }
+.footer-logo {
+  border-radius: 20%;
+}
 
 .img {
   height: 30px;
@@ -127,6 +130,3 @@ height: 80px;
 }
 
 /*********************************ID*********************************/
-#footer-logo {
-  border-radius: 20%;
-}
