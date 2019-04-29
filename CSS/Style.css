@@ -35,6 +35,11 @@ h2 {
 h3 {
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
+  font-size: 1.2rem;
+}
+p
+{
+  font-size: 1.1rem;
 }
 
 /*********************************Classes*********************************/
@@ -76,12 +81,12 @@ h3 {
 }
 
 .credit {
-  font-size: .625rem;
+  font-size: .5rem;
 }
 
 .contact-me {
   line-height: 2;
-  height: 260px;
+  height: 16.25rem;
   margin: auto;
 }
 
